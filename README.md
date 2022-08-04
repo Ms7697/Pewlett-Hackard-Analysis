@@ -16,5 +16,7 @@ The overview objective for this analysis was first, to determining the number of
 
 
 4. Eligible for a mentorship. There are 1,549 individuals who are eligible for the mentorship program.
-5. 
-6. ![Image 2](https://user-images.githubusercontent.com/103544626/182762687-30d0766e-f6b7-4d3e-876d-84e41f29adf9.PNG)
+ 
+ ![Image 2](https://user-images.githubusercontent.com/103544626/182762687-30d0766e-f6b7-4d3e-876d-84e41f29adf9.PNG)
+ 
+ ##Summary
